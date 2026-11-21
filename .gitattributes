@@ -1,4 +1,4 @@
-windows/** linguist-vendored
+﻿windows/** linguist-vendored
 linux/** linguist-vendored
 macos/** linguist-vendored
 ios/** linguist-vendored
